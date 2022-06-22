@@ -1,1 +1,1 @@
-second README
+Instruction were to update this document
